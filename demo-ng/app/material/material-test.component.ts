@@ -13,6 +13,7 @@ import { GestureEventData } from "tns-core-modules/ui/gestures";
 import { Page } from "tns-core-modules/ui/page";
 import { Observable as RxObservable } from "rxjs/Observable";
 import { StackLayout } from "tns-core-modules/ui/layouts/stack-layout";
+import { TbMaterial } from "nativescript-tb-material";
 
 import stackLayoutModule = require("tns-core-modules/ui/layouts/stack-layout");
 
@@ -26,9 +27,13 @@ import tab = require("ui/tab-view");
     styleUrls: ["material-test.component.css"]
 })
 export class MaterialTestComponent implements OnInit {
+    private tbMaterial: TbMaterial;
+    public message: string;
 
     constructor(
     ) {
+        this.tbMaterial = new TbMaterial();
+        this.message = this.tbMaterial.message;
 
     }
 
