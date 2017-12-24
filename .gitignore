@@ -22,3 +22,9 @@ publish/src
 publish/package
 demo/report/report.html
 demo/report/stats.json
+
+demo-ng/*.d.ts
+demo-ng/lib
+demo-ng/platforms
+demo-ng/report/report.html
+demo-ng/report/stats.json

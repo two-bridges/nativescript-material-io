@@ -1,3 +1,5 @@
+import { ActivatedRoute, Router, RoutesRecognized } from "@angular/router";
+
 import { Component } from "@angular/core";
 
 @Component({
@@ -5,4 +7,18 @@ import { Component } from "@angular/core";
     templateUrl: "app.component.html",
 })
 
-export class AppComponent { }
+export class AppComponent {
+    constructor(
+        public router: Router,
+    ) {
+
+        this.router.events.subscribe(
+            (event) => {
+                if (event instanceof RoutesRecognized) {
+                    console.log('Router: ' + event.url);
+                }
+            }
+        );
+
+    }
+}

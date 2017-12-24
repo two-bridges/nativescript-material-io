@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/MDFTextAccessibility.framework/MDFTextAccessibility</key>
 		<data>
-		CE4C2XtQuU2JutC8I02Dh90EPsk=
+		0nBaXTulR6OSZuSc5JaOtwlNKWc=
 		</data>
 		<key>Frameworks/MDFTextAccessibility.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -118,7 +118,7 @@
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/MaterialComponents</key>
 		<data>
-		vcf/wusJo8j4IazRYmB7uBl8wOc=
+		9AldZS2f2fsuZQyfXxVFetsW2Es=
 		</data>
 		<key>Frameworks/MaterialComponents.framework/MaterialDialogs.bundle/Resources/en.lproj/MaterialDialogs.strings</key>
 		<dict>
@@ -785,7 +785,7 @@
 		</data>
 		<key>Frameworks/MotionAnimator.framework/MotionAnimator</key>
 		<data>
-		XHfCNhkXgRri9sYEVzYYMxz0ExQ=
+		4MmMnulZQrsrejGpTYnDLbjN+XQ=
 		</data>
 		<key>Frameworks/MotionAnimator.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -797,7 +797,7 @@
 		</data>
 		<key>Frameworks/MotionInterchange.framework/MotionInterchange</key>
 		<data>
-		PTfTzxk/WaX7B93vw7t/srb4b8A=
+		hCV6rRE88bYzW1IaMZhanLk+yeg=
 		</data>
 		<key>Frameworks/MotionInterchange.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -809,7 +809,7 @@
 		</data>
 		<key>Frameworks/MotionTransitioning.framework/MotionTransitioning</key>
 		<data>
-		gEJpmcskAKlRWjV707LJzasvr5A=
+		pXYTcH3lf8g1eTUm+8HYtJo+pGc=
 		</data>
 		<key>Frameworks/MotionTransitioning.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -821,7 +821,7 @@
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		DX1ekEZ4adrfpzf367fAu/0g2bs=
+		SbzFVOMBkoRliubFCEOppN7rUiw=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -945,11 +945,11 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		8TegkvJYDMAU6YnhB1QQ5I0DpzQ=
+		Aj1kEzHVQo6rE/3uQl0dQfOpjGw=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		bAa7wccdbGe0tH3Fp6MittP/DbU=
+		AEQmZ4LMh0HjIYkJjwGTVEFEpF0=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
@@ -1010,6 +1010,22 @@
 		<key>app/main.ts</key>
 		<data>
 		4y8ylv8LIGm4LBv5RsavOSOiUT0=
+		</data>
+		<key>app/material/material-test.component.css</key>
+		<data>
+		Y5JCIbtR5AZ5gC52i2k1p0q7/Lo=
+		</data>
+		<key>app/material/material-test.component.html</key>
+		<data>
+		pY+x/wtW0Xxs0VTEnsxQrBCCfW0=
+		</data>
+		<key>app/material/material-test.component.js</key>
+		<data>
+		lcm2iwEOc10oPRMosC5h2vosqF8=
+		</data>
+		<key>app/material/material-test.component.ts</key>
+		<data>
+		HOdLPeuppuS3ZvLxTQtPxMkCGGk=
 		</data>
 		<key>app/package.json</key>
 		<data>
@@ -5033,7 +5049,7 @@
 		</data>
 		<key>app/tns_modules/nativescript-tb-material/package.json</key>
 		<data>
-		lVUV+fk1v7Xkm6aIC1qIDSZ5Ztk=
+		aFfHQn+aoohefbXNC1efpCkQ87E=
 		</data>
 		<key>app/tns_modules/nativescript-tb-material/references.d.ts</key>
 		<data>
@@ -5134,338 +5150,6 @@
 		<key>app/tns_modules/nativescript-theme-core/readme.md</key>
 		<data>
 		gvvUSjIRuUyct36UOjKcQ8EF/ic=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_action-bar.scss</key>
-		<data>
-		Y5YCvXHwgikPEsMfAsLMSuBWpSQ=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_activity-indicator.scss</key>
-		<data>
-		2dtN9gJ+TU24qMiH/ezA7/j1sCY=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_aqua.scss</key>
-		<data>
-		vQh1079LZB4x40QzcTjyTmgGT6g=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_blue.scss</key>
-		<data>
-		UL5R46HYofkc90yGFZJjEbcpGko=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_brown.scss</key>
-		<data>
-		jSDQIlXObKx8xsoK6Em3x+0Amz0=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_buttons.scss</key>
-		<data>
-		YY7Pk53B3p6up+N3z5Hfbw/lRWQ=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_dark.scss</key>
-		<data>
-		DpJMXZiljVnd80NPExwphBKBKSM=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_forest.scss</key>
-		<data>
-		SMdymCIWXcIu5pFroNl3cFboI1A=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_forms.scss</key>
-		<data>
-		y7LC8Vmgl9nPVgOROsUMokYWHR4=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_grey.scss</key>
-		<data>
-		xlOtGKAlXjKF9Tg5PDCRvxLsv0E=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_icons.scss</key>
-		<data>
-		RxOu2LtScvXJr8IS9Hb4/H/lBTs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_index.scss</key>
-		<data>
-		MC+0usFo3O3gRiLpTYNmFNsVpj8=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_labels.scss</key>
-		<data>
-		l/1FiL2z7D+PYra/oqkTm5X5Ozo=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_lemon.scss</key>
-		<data>
-		7CkEu7jVANSm2ubSh8jMZFCm8pw=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_light.scss</key>
-		<data>
-		y6CrjvG+rwUBgasnzNK22DkG/6E=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_lime.scss</key>
-		<data>
-		jxU80jKFJkhx2Q5jGmpInbLRNBA=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_list-view.scss</key>
-		<data>
-		oxvhsO8qNthYQfQeoJnOciIQ1n8=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_login.scss</key>
-		<data>
-		xC0Z61rkM4TmI7Go5BtHj7RB8FM=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_mixins.scss</key>
-		<data>
-		BDBG8ZTBTZWZLjUZS5NLbjcN/gQ=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_orange.scss</key>
-		<data>
-		wOwEmOJg0z9OPqRJH6iohtfc7vI=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_page.scss</key>
-		<data>
-		+5OE3s8Y/SR/nWA3hyRD2Zc6zrA=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_progress.scss</key>
-		<data>
-		FHqYoIxNrnOyvmP29Iu0+AS0cb4=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_purple.scss</key>
-		<data>
-		99/6HQP0W+DyCuTmOiV5xZj7Roo=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_ruby.scss</key>
-		<data>
-		LIu/l1NXyg/QdSLuAkaa8b4igis=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_segmented-bar.scss</key>
-		<data>
-		5AdJvLH06+Y+x5tvWWHyg5bAA5U=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_side-drawer.scss</key>
-		<data>
-		i6QEJdfBosCtL/Yz8A3r3O0O5Fw=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_sky.scss</key>
-		<data>
-		LpWXsV5bAnweg20xuS3ykN/jFrY=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_slider.scss</key>
-		<data>
-		j9kdKsGVbJiCyEIcR7z625mV8YU=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_switch.scss</key>
-		<data>
-		6yU5wMj8xTaCCVSBu4TYeBbNEcE=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_tabs.scss</key>
-		<data>
-		DWPr7GLaz7A6MdNppL1QPq1yY+s=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/_variables.scss</key>
-		<data>
-		eXsbEDxYeG/5bBJwIQtqsQNu1ao=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/bootstrap/_map.scss</key>
-		<data>
-		X01ZD8Yz5RIL8CrZDe7VnT2YsPw=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_border-radius.scss</key>
-		<data>
-		WivdOGfLYHKHcru9Nwcc4wqyNRE=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_buttons.scss</key>
-		<data>
-		m/jU1PRv1cEX2qb0n3xOz+9YYNw=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_index.scss</key>
-		<data>
-		CafTSi4gD4SrIu0i+toBKkPqFn8=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_buttons.scss</key>
-		<data>
-		NydgDOCucyIRPUO6Sp6oG8BsLjg=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_forms.scss</key>
-		<data>
-		/HEoV1FkCqociQt/zzbUX0HapAA=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_index.scss</key>
-		<data>
-		IOPcCMbhz6EnfWK/dN90kA6ZLl0=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_labels.scss</key>
-		<data>
-		ZrMUMiITjhfWAcPOTsSIEoFHTlM=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_list-view.scss</key>
-		<data>
-		2QnKtNdRyOqyIh0MU0H07aFKrMU=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_segmented-bar.scss</key>
-		<data>
-		sVRf3CjHZH+jIKR5bvlOAUiA/uc=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_side-drawer.scss</key>
-		<data>
-		a79vyAj8H8xGdsmE/g1OLSkZ9ZM=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_slider.scss</key>
-		<data>
-		pEEXyNZgouNZTPcyyvS3VeeEWSU=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_switches.scss</key>
-		<data>
-		WEgvNH7aA0AqpIXdXl5gZUFzI0M=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/aqua/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/aqua/_variables.scss</key>
-		<data>
-		mt4M5VOVDZyXIwdDYcNa3UO3DVU=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/blue/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/blue/_variables.scss</key>
-		<data>
-		Z4npqnRefLNw6sg0c99jN5D0z5o=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/brown/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/brown/_variables.scss</key>
-		<data>
-		m9vjIsE1lwe10opGlpHGvmvMznU=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_action-bar.scss</key>
-		<data>
-		Lmei+eM4J7XlLOQPdXJCqIjZKZI=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_forms.scss</key>
-		<data>
-		/fVtUm/VA0JqABk/1abEMqlV1ks=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_index.scss</key>
-		<data>
-		ExzXc+HCJiw5gqa89DZQl4hkSHg=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_list-view.scss</key>
-		<data>
-		J+VB/26TIpKxo51OntqQiNMm/Kc=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_spacing.scss</key>
-		<data>
-		+ljOQ5Y4IywIFfdQMOLoskHGOP4=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_variables.scss</key>
-		<data>
-		mxBKj7cKTr6DSHvOU7yH8Fk9H6E=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/forest/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/forest/_variables.scss</key>
-		<data>
-		p1Hd5KPwU7uG3FkArgkavIUNKQs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/grey/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/grey/_variables.scss</key>
-		<data>
-		VoTNUe3DxDYZ/x+IGmP6bm0VVa4=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_action-bar.scss</key>
-		<data>
-		FhTSubVDhzK0dNidB0SnfonZz0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_index.scss</key>
-		<data>
-		GjEinIFHYVzoM88niAV0O5tfENs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_variables.scss</key>
-		<data>
-		HYh18tSfmH83ep6oqz3JmBJVMb8=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/light/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/light/_variables.scss</key>
-		<data>
-		yujwBXvXTuOHgEySP/bjJtl6dCM=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_action-bar.scss</key>
-		<data>
-		FhTSubVDhzK0dNidB0SnfonZz0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_index.scss</key>
-		<data>
-		GjEinIFHYVzoM88niAV0O5tfENs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_variables.scss</key>
-		<data>
-		/6ENx9HCNTkipSVMsBhyWALzQi0=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_action-bar.scss</key>
-		<data>
-		FhTSubVDhzK0dNidB0SnfonZz0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_index.scss</key>
-		<data>
-		GjEinIFHYVzoM88niAV0O5tfENs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_variables.scss</key>
-		<data>
-		9TgoL3NU9W3r+ithUK2lswRZsyQ=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_action-bar.scss</key>
-		<data>
-		FhTSubVDhzK0dNidB0SnfonZz0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_index.scss</key>
-		<data>
-		GjEinIFHYVzoM88niAV0O5tfENs=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_variables.scss</key>
-		<data>
-		tdiQb0tbc2BsWgttWIwnKICFZtc=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/ruby/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/ruby/_variables.scss</key>
-		<data>
-		Zm7sorZlQ8pdDDIHHBFZxZQN3hA=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/sky/_index.scss</key>
-		<data>
-		YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/sky/_variables.scss</key>
-		<data>
-		h4VGGiO7urqmuJ5jdh3ajI7Ozy0=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_bootstrap.scss</key>
-		<data>
-		+73BJw/IM0t0t79nFkLuXk8CTbg=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_colors.scss</key>
-		<data>
-		E7asYfkPeorVwH51HqDLm+6ZRKo=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_index.scss</key>
-		<data>
-		vwvfIDu4lXYJdL5ZAbAFPcbfGBA=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_spacing.scss</key>
-		<data>
-		ngM2zFDW1rd/csqgmgRazOve2Hk=
-		</data>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_text.scss</key>
-		<data>
-		MV+ZX8kzvmw6pQYOINLgnG3jAZs=
 		</data>
 		<key>app/tns_modules/reflect-metadata/.npmignore</key>
 		<data>
@@ -12963,11 +12647,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CE4C2XtQuU2JutC8I02Dh90EPsk=
+			0nBaXTulR6OSZuSc5JaOtwlNKWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			pOi37uqTUir0cD74KgOTuRJOhNRreEDYmRdVzlh1G4c=
+			f4WIwtLTprhEcYHvZpc6mA4PoksfZAIINtQ/cQ+APGE=
 			</data>
 		</dict>
 		<key>Frameworks/MDFTextAccessibility.framework/_CodeSignature/CodeResources</key>
@@ -13048,11 +12732,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vcf/wusJo8j4IazRYmB7uBl8wOc=
+			9AldZS2f2fsuZQyfXxVFetsW2Es=
 			</data>
 			<key>hash2</key>
 			<data>
-			qGJopPkPkWgWqb90z6LRpsZayCI3yGATrJGFDb4X0JY=
+			7+jVu0wF8AU6xs6pWe6Q971qFcxJ37+mUmgQ3UC9C0U=
 			</data>
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/MaterialDialogs.bundle/Resources/en.lproj/MaterialDialogs.strings</key>
@@ -14189,11 +13873,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XHfCNhkXgRri9sYEVzYYMxz0ExQ=
+			4MmMnulZQrsrejGpTYnDLbjN+XQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			3ECrdIsNFZq//jAJkBqxKjYmnxRbcxgv/5Yn2JiDXoo=
+			t/E3tGBCqgUERoIVoyHPu3G1MtBJU9x9ZZqevB7ueAo=
 			</data>
 		</dict>
 		<key>Frameworks/MotionAnimator.framework/_CodeSignature/CodeResources</key>
@@ -14222,11 +13906,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PTfTzxk/WaX7B93vw7t/srb4b8A=
+			hCV6rRE88bYzW1IaMZhanLk+yeg=
 			</data>
 			<key>hash2</key>
 			<data>
-			LM2AMfWo4TBftLXlckguZQawwLXXqaEar/CxK9u2hjg=
+			hEfPrFMTohEVhSDXzUPFRbRUSOH9HbTKW+4ygEJktEw=
 			</data>
 		</dict>
 		<key>Frameworks/MotionInterchange.framework/_CodeSignature/CodeResources</key>
@@ -14255,11 +13939,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gEJpmcskAKlRWjV707LJzasvr5A=
+			pXYTcH3lf8g1eTUm+8HYtJo+pGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			MZIsAztr+noAeJtluN6fszghHPocM2aBtZH2uuKJSLE=
+			L6y51dTwnYd9vFNEOLqGf599F3jd0+U42lWWUXw9LGU=
 			</data>
 		</dict>
 		<key>Frameworks/MotionTransitioning.framework/_CodeSignature/CodeResources</key>
@@ -14288,11 +13972,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DX1ekEZ4adrfpzf367fAu/0g2bs=
+			SbzFVOMBkoRliubFCEOppN7rUiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			A6ZznygLZC/hOugWICpLoowADsu7wlJgrTc0Rm/KW9I=
+			BWCsK/9TgjWbSrJOXCJwGVMegUKNmnHnurWT2XwTsCA=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
@@ -14607,22 +14291,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8TegkvJYDMAU6YnhB1QQ5I0DpzQ=
+			Aj1kEzHVQo6rE/3uQl0dQfOpjGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			l31wBzwK9TxDJNkGRgyhLg3UgjRdNY/dgeRpUKgav1c=
+			DYnSQGsDlt8YCj1vXrUeGwPsKllTrUJ1AEHmL/RX7ks=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bAa7wccdbGe0tH3Fp6MittP/DbU=
+			AEQmZ4LMh0HjIYkJjwGTVEFEpF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			9kWlJoIbdZJ9XcjbMDIv7kkn98cspMQfuNUcfhVsOIs=
+			Ksg2FNYCBEMUUnC2j0wp0RgalYCVltUNbeqHsl0/M/Y=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
@@ -14788,6 +14472,50 @@
 			<key>hash2</key>
 			<data>
 			r0xFSlvGESqXxJV0eT2/cTXJtKzhKH/Q0WioJp5mEQo=
+			</data>
+		</dict>
+		<key>app/material/material-test.component.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y5JCIbtR5AZ5gC52i2k1p0q7/Lo=
+			</data>
+			<key>hash2</key>
+			<data>
+			mA5gc7d0VlDSSmJE5tipSRLWjHi5KMaBQg/HT8neyF8=
+			</data>
+		</dict>
+		<key>app/material/material-test.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pY+x/wtW0Xxs0VTEnsxQrBCCfW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			EW70r98/sHZSd1MbQ0bUop1/ujj0tdr1+hyHTM+uLks=
+			</data>
+		</dict>
+		<key>app/material/material-test.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lcm2iwEOc10oPRMosC5h2vosqF8=
+			</data>
+			<key>hash2</key>
+			<data>
+			BnQfQaPW8A8bXKmsRguDBadWoSyiYGRudY5NtpVM6yg=
+			</data>
+		</dict>
+		<key>app/material/material-test.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HOdLPeuppuS3ZvLxTQtPxMkCGGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			iWGfZoyca+Bfb+zUtTbmhk931HDtZRtndSf6cXcI1Gs=
 			</data>
 		</dict>
 		<key>app/package.json</key>
@@ -25849,11 +25577,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lVUV+fk1v7Xkm6aIC1qIDSZ5Ztk=
+			aFfHQn+aoohefbXNC1efpCkQ87E=
 			</data>
 			<key>hash2</key>
 			<data>
-			dCAAxdsUONDPprZFYji99Rcn+77XK8SxGZM8W7EUtog=
+			krQcX6x7OdJWGOEthOaIptaCXU3LVSqOPXZKxIFktjA=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-tb-material/references.d.ts</key>
@@ -26129,919 +25857,6 @@
 			<key>hash2</key>
 			<data>
 			Bld0FsyCwpyUoE37elOyrMiUFHHNjGOG/0TxVQHu9Iw=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Y5YCvXHwgikPEsMfAsLMSuBWpSQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Nl3OmJVpNnNhvSQdR447+D+yUvyQvH1uRAn6pl/+x3o=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_activity-indicator.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2dtN9gJ+TU24qMiH/ezA7/j1sCY=
-			</data>
-			<key>hash2</key>
-			<data>
-			dUV871/rC94GKZo1xTWWSNDbBoRrxyBHC4GjD2i0pJ4=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_aqua.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vQh1079LZB4x40QzcTjyTmgGT6g=
-			</data>
-			<key>hash2</key>
-			<data>
-			exN0glFtcYnyR4Uho/mL9nup1jINDKW3ESw3qjYQVAA=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_blue.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UL5R46HYofkc90yGFZJjEbcpGko=
-			</data>
-			<key>hash2</key>
-			<data>
-			7mhPIZeVmshWbGNNwxQ7Sfu9ucqxzdvTV/a4rlNO1ks=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_brown.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jSDQIlXObKx8xsoK6Em3x+0Amz0=
-			</data>
-			<key>hash2</key>
-			<data>
-			u8AfSR5lveTB1N5JYfWlqJIt+axuyHBlE7mgiTWf1GM=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_buttons.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YY7Pk53B3p6up+N3z5Hfbw/lRWQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			N0Awq6H9BUzCAny9zp6j02Xd9FB8vfZ0ZtTXUFCrhsA=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_dark.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DpJMXZiljVnd80NPExwphBKBKSM=
-			</data>
-			<key>hash2</key>
-			<data>
-			NgxcDN6MvqGwuPosedPAe0PyaQ0fZUXEz5eDVVoJ1s4=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_forest.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SMdymCIWXcIu5pFroNl3cFboI1A=
-			</data>
-			<key>hash2</key>
-			<data>
-			ulI49EwJ8jpIYha9zJ9AzSU1OUSDUWVEOzd12FB8QQo=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_forms.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y7LC8Vmgl9nPVgOROsUMokYWHR4=
-			</data>
-			<key>hash2</key>
-			<data>
-			zl+rClfL533sXjLeaugjEp5ZQpEA8bGcQ48rhkk3N78=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_grey.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xlOtGKAlXjKF9Tg5PDCRvxLsv0E=
-			</data>
-			<key>hash2</key>
-			<data>
-			Hu4xyR1qvHX04zd5gWTAKA1GvVnq72P1WKmBibrRok8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_icons.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RxOu2LtScvXJr8IS9Hb4/H/lBTs=
-			</data>
-			<key>hash2</key>
-			<data>
-			LBUFuYeMGkyeBIPT0wPgM57ylPiccui96GZpdVjFSQQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MC+0usFo3O3gRiLpTYNmFNsVpj8=
-			</data>
-			<key>hash2</key>
-			<data>
-			pdzFL8GwZXSenmE1pZqAhXCGpRdnYlncCc2HZ+n9Uio=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_labels.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			l/1FiL2z7D+PYra/oqkTm5X5Ozo=
-			</data>
-			<key>hash2</key>
-			<data>
-			QN7H8f4szPeFtsM+KnDflgks6icJ6TN3fc19GST/kSM=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_lemon.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7CkEu7jVANSm2ubSh8jMZFCm8pw=
-			</data>
-			<key>hash2</key>
-			<data>
-			NaCTMJru3HjMj4EQxMf22NAm0UYqTHV2MAcXGq6m31U=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_light.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y6CrjvG+rwUBgasnzNK22DkG/6E=
-			</data>
-			<key>hash2</key>
-			<data>
-			E2vkeHJqOsUNBGPSbUiyLO3IAAk73PPAeiOmkhS7I74=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_lime.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jxU80jKFJkhx2Q5jGmpInbLRNBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			E61nhmjdYPc6zRCPukAhDH9epWHu9claRmOJr99B/Eo=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_list-view.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oxvhsO8qNthYQfQeoJnOciIQ1n8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Lc3AMBitxZoNswGjby1to/soXjjjuaUfqj54fkak1kY=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_login.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xC0Z61rkM4TmI7Go5BtHj7RB8FM=
-			</data>
-			<key>hash2</key>
-			<data>
-			JNDfd2hgyVnzob8JCwBoduSbCavzN9fWXuu74PayO40=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_mixins.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BDBG8ZTBTZWZLjUZS5NLbjcN/gQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			MF0iJxTQC9+HuGeJyU8G8g6uHNovThmSb7Lq64WnTss=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_orange.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wOwEmOJg0z9OPqRJH6iohtfc7vI=
-			</data>
-			<key>hash2</key>
-			<data>
-			qa5U99h4Dx8xxXYE2AlWqfHaymtXl6n2MBvfBZaA1i4=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_page.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+5OE3s8Y/SR/nWA3hyRD2Zc6zrA=
-			</data>
-			<key>hash2</key>
-			<data>
-			kbkAGWuDA+AIBN+ePiNZvEV3YnKajfiy/UHVpswUl+w=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_progress.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FHqYoIxNrnOyvmP29Iu0+AS0cb4=
-			</data>
-			<key>hash2</key>
-			<data>
-			zaBvHe/7XctLPfWHdWDjOXCoULnE6IIFE2iiZivQYSw=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_purple.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			99/6HQP0W+DyCuTmOiV5xZj7Roo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ee24U8TbGkEFVleJvwufxz4RiZoqh27xylNjINlnKDw=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_ruby.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LIu/l1NXyg/QdSLuAkaa8b4igis=
-			</data>
-			<key>hash2</key>
-			<data>
-			F2BQvECg6yA7Q9mpEUwQSLSDdCUJ5dO6gRVhurWmuGU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_segmented-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5AdJvLH06+Y+x5tvWWHyg5bAA5U=
-			</data>
-			<key>hash2</key>
-			<data>
-			hh1tmioiFaNDxOeguvU9xwUkUD+kwFgJZvREmDMiBqM=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_side-drawer.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i6QEJdfBosCtL/Yz8A3r3O0O5Fw=
-			</data>
-			<key>hash2</key>
-			<data>
-			Pfnm/NINerl2uhPfYq5GohVbrATszf/YBINwB9K3GfQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_sky.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LpWXsV5bAnweg20xuS3ykN/jFrY=
-			</data>
-			<key>hash2</key>
-			<data>
-			emPppIgcutD/ROD3g5HZewVeHVfZWvevwHz2O6JioSI=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_slider.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			j9kdKsGVbJiCyEIcR7z625mV8YU=
-			</data>
-			<key>hash2</key>
-			<data>
-			TwNCMHI9WubouPfirA2J7X29s/AH3LFn6kejmqKLt68=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_switch.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6yU5wMj8xTaCCVSBu4TYeBbNEcE=
-			</data>
-			<key>hash2</key>
-			<data>
-			76YkttjlVO/+jv+5XYmLYk+QGXs21DukcRycjTBeAA8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_tabs.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DWPr7GLaz7A6MdNppL1QPq1yY+s=
-			</data>
-			<key>hash2</key>
-			<data>
-			T8A/S/ElmdS6own3doTTF3ctd2LNBmD5u+B3qALJdF8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eXsbEDxYeG/5bBJwIQtqsQNu1ao=
-			</data>
-			<key>hash2</key>
-			<data>
-			fmtLAP3Yq5y6mv8h53e+I7TNWFnRjbgLV1WUcfLodco=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/bootstrap/_map.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X01ZD8Yz5RIL8CrZDe7VnT2YsPw=
-			</data>
-			<key>hash2</key>
-			<data>
-			FgDoKg67pHVl0rozLoykLoykK26XnKlhqpWe6VDr0sw=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_border-radius.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WivdOGfLYHKHcru9Nwcc4wqyNRE=
-			</data>
-			<key>hash2</key>
-			<data>
-			LogwljF0jy1LFc/g1TjdhL7gr6dakCJdOI6KeJ6mJgA=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_buttons.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m/jU1PRv1cEX2qb0n3xOz+9YYNw=
-			</data>
-			<key>hash2</key>
-			<data>
-			o0c2c9MNZkyimfvAemW7sXqD/uEAFn2TzeP/rD2GI6s=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/mixins/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CafTSi4gD4SrIu0i+toBKkPqFn8=
-			</data>
-			<key>hash2</key>
-			<data>
-			5fbEqsfehSP2UDTdztATaxxZFQG6+9c4ljTaIoOIUCc=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_buttons.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NydgDOCucyIRPUO6Sp6oG8BsLjg=
-			</data>
-			<key>hash2</key>
-			<data>
-			Na2NfEOr4A51d0klc211/IBU34ppcdOQip7U0tcbR+Q=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_forms.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/HEoV1FkCqociQt/zzbUX0HapAA=
-			</data>
-			<key>hash2</key>
-			<data>
-			6fCrU/NM+dtNQ0rU0ixHbQOYlYQDy+6nIriWdhhcAc8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IOPcCMbhz6EnfWK/dN90kA6ZLl0=
-			</data>
-			<key>hash2</key>
-			<data>
-			rRk9h/MfeB1DQBGm8Yaajgwu9gyqbAiMxCh4K8HV0Vw=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_labels.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZrMUMiITjhfWAcPOTsSIEoFHTlM=
-			</data>
-			<key>hash2</key>
-			<data>
-			zhb8oEEJRroWLGyPd0O0eu/E5H9/8WbsPTp+3F0D4e0=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_list-view.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2QnKtNdRyOqyIh0MU0H07aFKrMU=
-			</data>
-			<key>hash2</key>
-			<data>
-			GosXWh0o7lnju6ekmpbMdFnhkNJYl91/XsYBwU62EXU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_segmented-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sVRf3CjHZH+jIKR5bvlOAUiA/uc=
-			</data>
-			<key>hash2</key>
-			<data>
-			QKu5Be7PyHwGkHoFQ6ldZh25/z9ow+JdKQUDZKCTuGE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_side-drawer.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a79vyAj8H8xGdsmE/g1OLSkZ9ZM=
-			</data>
-			<key>hash2</key>
-			<data>
-			lW/4Oyhf+7sFb2SaiWPcDj/1zRBAc+Rqy3ofZq/Sd00=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_slider.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pEEXyNZgouNZTPcyyvS3VeeEWSU=
-			</data>
-			<key>hash2</key>
-			<data>
-			kUlOtnt7lCnnbbM/CI4zoL6la+AI963SeAso+4MjqSQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/platforms/_switches.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WEgvNH7aA0AqpIXdXl5gZUFzI0M=
-			</data>
-			<key>hash2</key>
-			<data>
-			KoApbV4WBn8XbwTFZJ0LWYAOILFOm9Xnq68R7zQ5H2k=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/aqua/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/aqua/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mt4M5VOVDZyXIwdDYcNa3UO3DVU=
-			</data>
-			<key>hash2</key>
-			<data>
-			uoMahgHSFHQXgXMByy4CbiVmFfBCgt2HVhnvhXYJb4w=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/blue/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/blue/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z4npqnRefLNw6sg0c99jN5D0z5o=
-			</data>
-			<key>hash2</key>
-			<data>
-			C/M9xmvGUyX21DzCIAeRKRtHMBGVmJXBs/N4JwlUn5c=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/brown/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/brown/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m9vjIsE1lwe10opGlpHGvmvMznU=
-			</data>
-			<key>hash2</key>
-			<data>
-			RMPpwCZopklOEOigSLg3ylagxWz18BrVCnifFMaqTmU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Lmei+eM4J7XlLOQPdXJCqIjZKZI=
-			</data>
-			<key>hash2</key>
-			<data>
-			QZfCWV3xsMSKebs8pU6wK/8o1OCd1wQtFWi1UTyhGuM=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_forms.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/fVtUm/VA0JqABk/1abEMqlV1ks=
-			</data>
-			<key>hash2</key>
-			<data>
-			mN0w5rJAG9Aq1MkdcVe/76LLws0fq18Ewh7XlWnHf/8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ExzXc+HCJiw5gqa89DZQl4hkSHg=
-			</data>
-			<key>hash2</key>
-			<data>
-			JySVtHeU6+55YnO3b3PbmkqnMVA2huF3Jnkdab2Nj8I=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_list-view.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J+VB/26TIpKxo51OntqQiNMm/Kc=
-			</data>
-			<key>hash2</key>
-			<data>
-			EH1y6kaejSccZ2vdd/9vT56Gune2xWO89NGyap7tfXU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_spacing.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+ljOQ5Y4IywIFfdQMOLoskHGOP4=
-			</data>
-			<key>hash2</key>
-			<data>
-			j6WRoD6/XqK2l5xhtd5Xxt/3OMsQ8cApTpqvVLVSK/8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/dark/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mxBKj7cKTr6DSHvOU7yH8Fk9H6E=
-			</data>
-			<key>hash2</key>
-			<data>
-			I2ICDbtQ7a42wAb7qlSEiNdVz21Nsqirn3PbhoFcPGM=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/forest/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/forest/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			p1Hd5KPwU7uG3FkArgkavIUNKQs=
-			</data>
-			<key>hash2</key>
-			<data>
-			f20k/F58LSrShzCcp1PDOPUxqfXw6/UgO91+P19sorc=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/grey/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/grey/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VoTNUe3DxDYZ/x+IGmP6bm0VVa4=
-			</data>
-			<key>hash2</key>
-			<data>
-			G1dFnRLRKTD/1CIXDewADNxFld4nGbAVy6sPKn8BLLQ=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FhTSubVDhzK0dNidB0SnfonZz0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			0lCFt70GCSaREJAWn0aSeYGjSTAbQWdohh6RALZx/3s=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GjEinIFHYVzoM88niAV0O5tfENs=
-			</data>
-			<key>hash2</key>
-			<data>
-			uvDzSa65N9xQ02dsnMnPL8VBAqVn/B7vavwVyh50FZE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lemon/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HYh18tSfmH83ep6oqz3JmBJVMb8=
-			</data>
-			<key>hash2</key>
-			<data>
-			DW/MQXOG87PLnG6/EfGPLXdueAGhbI20FIktW/IdIso=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/light/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/light/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yujwBXvXTuOHgEySP/bjJtl6dCM=
-			</data>
-			<key>hash2</key>
-			<data>
-			vc9WLiuixAdhUMZ02yvrGCHnwC3Lnq43nQ1oHQ03YE8=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FhTSubVDhzK0dNidB0SnfonZz0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			0lCFt70GCSaREJAWn0aSeYGjSTAbQWdohh6RALZx/3s=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GjEinIFHYVzoM88niAV0O5tfENs=
-			</data>
-			<key>hash2</key>
-			<data>
-			uvDzSa65N9xQ02dsnMnPL8VBAqVn/B7vavwVyh50FZE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/lime/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/6ENx9HCNTkipSVMsBhyWALzQi0=
-			</data>
-			<key>hash2</key>
-			<data>
-			jAhqYJF1gBGFwlXfNQxaAoMMM3CC7NvrNZZyMgfuSDE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FhTSubVDhzK0dNidB0SnfonZz0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			0lCFt70GCSaREJAWn0aSeYGjSTAbQWdohh6RALZx/3s=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GjEinIFHYVzoM88niAV0O5tfENs=
-			</data>
-			<key>hash2</key>
-			<data>
-			uvDzSa65N9xQ02dsnMnPL8VBAqVn/B7vavwVyh50FZE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/orange/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9TgoL3NU9W3r+ithUK2lswRZsyQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			cb01GPy/t0QeRktQ02Lb9+mKeAkM/i40WJBQrNkiP4k=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_action-bar.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FhTSubVDhzK0dNidB0SnfonZz0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			0lCFt70GCSaREJAWn0aSeYGjSTAbQWdohh6RALZx/3s=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GjEinIFHYVzoM88niAV0O5tfENs=
-			</data>
-			<key>hash2</key>
-			<data>
-			uvDzSa65N9xQ02dsnMnPL8VBAqVn/B7vavwVyh50FZE=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/purple/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tdiQb0tbc2BsWgttWIwnKICFZtc=
-			</data>
-			<key>hash2</key>
-			<data>
-			WFTcluIqFLqO6GZ7K64gMIuf36cvEq1VD8xWoLZnWZ0=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/ruby/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/ruby/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Zm7sorZlQ8pdDDIHHBFZxZQN3hA=
-			</data>
-			<key>hash2</key>
-			<data>
-			87l6F2N2x1YQeFX5P89SoMRharTQMdrMhJupGYdN5SU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/sky/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YXIVhtZUpI3uVl1y9NzkLKBmO0Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			FqEGKy/J9ZY514cVEaH6PZ7TQRaAGh1tzjStUKF4nTs=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/skins/sky/_variables.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h4VGGiO7urqmuJ5jdh3ajI7Ozy0=
-			</data>
-			<key>hash2</key>
-			<data>
-			KQ2yo0eVfsFwmLH/GKBSSNbUgWnoh1Dhr1FjIgDXSWA=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_bootstrap.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+73BJw/IM0t0t79nFkLuXk8CTbg=
-			</data>
-			<key>hash2</key>
-			<data>
-			cbq88AAnS0FHAancFKHOGIowMaPeFHuMwjkJmFHa8zU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_colors.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E7asYfkPeorVwH51HqDLm+6ZRKo=
-			</data>
-			<key>hash2</key>
-			<data>
-			M08ytdZpOvpZ9XyuAEhmRb2CUj5ZwiZF/fFO2YR3BRc=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_index.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vwvfIDu4lXYJdL5ZAbAFPcbfGBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			VETZNKSi78K+6ju51ytdt9gC4KDc6R/3a1zqrgNMJKU=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_spacing.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ngM2zFDW1rd/csqgmgRazOve2Hk=
-			</data>
-			<key>hash2</key>
-			<data>
-			oQJ+BmHmA2YS0Hm1xMDQDEBRYEH8iMtUoeXcmXYoXmk=
-			</data>
-		</dict>
-		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_text.scss</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MV+ZX8kzvmw6pQYOINLgnG3jAZs=
-			</data>
-			<key>hash2</key>
-			<data>
-			+yVjy4T6c/PeYoiHHyWW6o3Xv/zSCouyEDBLL/UM3hI=
 			</data>
 		</dict>
 		<key>app/tns_modules/reflect-metadata/.npmignore</key>
