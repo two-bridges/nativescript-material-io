@@ -1,0 +1,9 @@
+use_frameworks!
+
+target "demong" do
+# Begin Podfile - /Users/dean/code/tb-material/demo-ng/node_modules/nativescript-tb-material/platforms/ios/Podfile 
+ pod 'MaterialComponents'
+ 
+ # End Podfile 
+
+end
