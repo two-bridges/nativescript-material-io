@@ -1122,7 +1122,7 @@ declare class MDCDialogPresentationController extends UIPresentationController {
 
     dismissOnBackgroundTap: boolean;
 
-    frameOfPresentedViewInContainerView(): CGRect;
+    // frameOfPresentedViewInContainerView(): CGRect;
 }
 
 declare class MDCDialogTransitionController extends NSObject implements UIViewControllerAnimatedTransitioning, UIViewControllerTransitioningDelegate {
@@ -1456,9 +1456,9 @@ declare class MDCFlexibleHeaderViewController extends UIViewController implement
 
     performSelectorWithObjectWithObject(aSelector: string, object1: any, object2: any): any;
 
-    preferredStatusBarStyle(): UIStatusBarStyle;
+    // preferredStatusBarStyle(): UIStatusBarStyle;
 
-    prefersStatusBarHidden(): boolean;
+    // prefersStatusBarHidden(): boolean;
 
     respondsToSelector(aSelector: string): boolean;
 
@@ -1930,7 +1930,8 @@ declare var MDCKeyboardWatcherKeyboardWillHideNotification: string;
 
 declare var MDCKeyboardWatcherKeyboardWillShowNotification: string;
 
-declare class MDCMaskedTransition extends NSObject implements MDMTransition {
+// declare class MDCMaskedTransition extends NSObject implements MDMTransition {
+declare class MDCMaskedTransition extends NSObject {
 
     static alloc(): MDCMaskedTransition; // inherited from NSObject
 
@@ -1976,7 +1977,7 @@ declare class MDCMaskedTransition extends NSObject implements MDMTransition {
 
     self(): this;
 
-    startWithContext(context: MDMTransitionContext): void;
+    startWithContext(context: any): void;
 }
 
 declare class MDCMultilineTextField extends UIView implements MDCMultilineTextInput, MDCTextInput {
