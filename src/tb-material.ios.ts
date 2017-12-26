@@ -9,8 +9,8 @@ export class TbMaterial extends Common {
         console.log('create native view 3');
         const btn = MDCRaisedButton.new();
 
-        let colorModule = require("color");
-        let red = new colorModule.Color("#ff0000");
+        // let colorModule = require("color");
+        // let red = new colorModule.Color("#ff0000");
 
         // let raiseButton = btn.init();
 
