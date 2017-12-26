@@ -6,6 +6,7 @@ import { ItemDetailComponent } from "./item/item-detail.component";
 import { ItemService } from "./item/item.service";
 import { ItemsComponent } from "./item/items.component";
 import { MaterialTestComponent } from "./material/material-test.component";
+import { MdTestModule } from "nativescript-tb-material/angular";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -20,7 +21,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        AppRoutingModule,
+        MdTestModule
     ],
     declarations: [
         AppComponent,
