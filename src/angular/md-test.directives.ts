@@ -5,4 +5,4 @@ import { Directive } from "@angular/core";
 })
 export class MdTestDirective { }
 
-export const DIRECTIVES = MdTestDirective;
+export const DIRECTIVES = [MdTestDirective];

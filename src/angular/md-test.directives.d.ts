@@ -1,3 +1,3 @@
 export declare class MdTestDirective {
 }
-export declare const DIRECTIVES: typeof MdTestDirective;
+export declare const DIRECTIVES: typeof MdTestDirective[];
