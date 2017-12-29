@@ -2,7 +2,6 @@
     "name": "nativescript-tb-material",
     "version": "1.0.0",
     "description": "Your awesome NativeScript plugin.",
-    "main": "tb-material",
     "typings": "index.d.ts",
     "nativescript": {
         "platforms": {

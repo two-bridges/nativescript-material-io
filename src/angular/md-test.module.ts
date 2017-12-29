@@ -8,4 +8,5 @@ import { registerElement } from "nativescript-angular/element-registry";
 })
 export class MdTestModule { }
 
-registerElement("md-test", () => require("../").TbMaterial);
+registerElement("md-test", () => require("../mdc-raised-button").MdcRaisedButton);
+registerElement("md-test2", () => require("../tb-material").TbMaterial);

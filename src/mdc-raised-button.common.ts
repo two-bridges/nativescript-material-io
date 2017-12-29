@@ -4,7 +4,7 @@ import * as dialogs from 'tns-core-modules/ui/dialogs';
 import { Observable } from 'tns-core-modules/data/observable';
 import { View } from 'tns-core-modules/ui/core/view';
 
-export class Common extends View {
+export class MdcRaisedButtonCommon extends View {
     public message: string;
 
     constructor() {
@@ -19,7 +19,7 @@ export class Common extends View {
 
 export class Utils {
     public static SUCCESS_MSG(): string {
-        let msg = `Your tb-material pluginz is working on ${app.android ? 'Android' : 'iOS'}.`;
+        let msg = `Your mdc-raised-button pluginz is working on ${app.android ? 'Android' : 'iOS'}.`;
 
         setTimeout(() => {
             dialogs.alert(`${msg} For real. It's really working :)`).then(() => console.log(`Dialog closed.`));
