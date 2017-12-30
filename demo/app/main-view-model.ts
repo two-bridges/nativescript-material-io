@@ -1,14 +1,14 @@
+import { MdcRaisedButton } from 'nativescript-tb-material';
 import { Observable } from 'tns-core-modules/data/observable';
-import { TbMaterial } from 'nativescript-tb-material';
 
 export class HelloWorldModel extends Observable {
-  public message: string;
-  private tbMaterial: TbMaterial;
+    public message: string;
+    private tbMaterial: MdcRaisedButton;
 
-  constructor() {
-    super();
+    constructor() {
+        super();
 
-    this.tbMaterial = new TbMaterial();
-    this.message = this.tbMaterial.message;
-  }
+        this.tbMaterial = new MdcRaisedButton();
+        this.message = `tbMaterial.message: ${this.tbMaterial.message}`;
+    }
 }

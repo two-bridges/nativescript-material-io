@@ -3,5 +3,6 @@
   <StackLayout class="p-20">
     <Label text="{{ message }}" class="t-20 text-center c-black" textWrap="true"/>
     <ui:TbMaterial></ui:TbMaterial>
+    <ui:MdcRaisedButton></ui:MdcRaisedButton>
   </StackLayout>
 </Page>

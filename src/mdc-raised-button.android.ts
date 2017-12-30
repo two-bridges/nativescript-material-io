@@ -1,5 +1,5 @@
 import { MdcRaisedButtonCommon } from './mdc-raised-button.common';
 
-export class TbMaterial extends MdcRaisedButtonCommon {
+export class MdcRaisedButton extends MdcRaisedButtonCommon {
 
 }

@@ -1,5 +1,6 @@
 import { Common } from './tb-material.common';
 import { MdcRaisedButtonCommon } from './mdc-raised-button.common';
+
 export declare class TbMaterial extends Common {
     // define your typings manually
     // or..
