@@ -4,8 +4,28 @@
     <mdc-raised-button></mdc-raised-button>
     <tb-material></tb-material>
     <StackLayout dock="top">
-        <mat-card dock="top" height="100" style="border-width:5;">
-            <Label text="The container is styled" style="background-color:pink; height:50; margin: 50;"></Label>
+        <StackLayout>
+            <StackLayout>
+                <mat-card dock="top" style="margin-bottom:10;border-width:1;">
+                    <StackLayout>
+                        <Label text="You can't place a border on the card - WTF?  " style="background-color:pink; height:50; margin: 50 50 0 50;"></Label>
+                        <Label text="Perhaps {N} fucks around with the parent and overrides our shit" style="background-color:pink; height:50; margin: 0 50 50 50;"></Label>
+                    </StackLayout>
+                </mat-card>
+                <mat-card dock="top" style="margin-bottom:10;">
+                    <StackLayout>
+                        <Label text="Things are okay without a border  " style="background-color:pink; height:50; margin: 50 50 0 50;"></Label>
+                        <Label text="Even though we're in a StackLayout" style="background-color:pink; height:50; margin: 0 50 50 50;"></Label>
+                    </StackLayout>
+                </mat-card>
+
+            </StackLayout>
+
+        </StackLayout>
+
+        <Label text="testing..." style="background-color: purple;"></Label>
+        <mat-card height=" 100 " style="background-color:yellow;">
+            <Label text="The container is styled " style="background-color:pink; height:50; margin: 50; "></Label>
         </mat-card>
     </StackLayout>
     <StackLayout dock="top" horizontalAlignment="center" verticalAlignment="middle" style="margin: 50;padding: 20;">
