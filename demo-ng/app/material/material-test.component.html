@@ -3,6 +3,25 @@
     <Label dock="top" [text]="this.message" class="bg-yellow"></Label>
     <mdc-raised-button></mdc-raised-button>
     <tb-material></tb-material>
+    <StackLayout dock="top">
+        <mat-card dock="top" height="100" style="border-width:5;">
+            <Label text="The container is styled" style="background-color:pink; height:50; margin: 50;"></Label>
+        </mat-card>
+    </StackLayout>
+    <StackLayout dock="top" horizontalAlignment="center" verticalAlignment="middle" style="margin: 50;padding: 20;">
+        <StackLayout>
+            <Stacklayout>
+                <mat-card height="100" style="">
+                    <Label text="The container is styled" style="background-color:pink; height:50; margin: 50;"></Label>
+                </mat-card>
 
-    <Label text=""></Label>
+            </Stacklayout>
+        </StackLayout>
+        <Label text="testing..." style="background-color: purple;"></Label>
+        <mat-card height=" 100 " style="background-color:yellow;">
+            <Label text="The container is styled " style="background-color:pink; height:50; margin: 50; "></Label>
+        </mat-card>
+
+    </StackLayout>
+    <Label text=" "></Label>
 </DockLayout>

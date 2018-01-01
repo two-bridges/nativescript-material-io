@@ -10,3 +10,4 @@ export class MdTestModule { }
 
 registerElement("mdc-raised-button", () => require("../").MdcRaisedButton);
 registerElement("tb-material", () => require("../").TbMaterial);
+registerElement("mat-card", () => require("../").MatCard);
