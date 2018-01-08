@@ -7,6 +7,10 @@ import { Observable } from 'tns-core-modules/data/observable';
 export class MatCardCommon extends ContentView {
     public message: string;
 
+    public _mdcPalettePrefix: string = "grey";
+    public _mdcPaletteFullName: string = "greyPalette";
+    public _mdcShade: string = "tint500"; // the default primary tint should be 500 (middle tint, to allow accents: https://material.io/guidelines/style/color.html#color-color-palette)
+
     constructor() {
         super();
         this.message = Utils.SUCCESS_MSG();
@@ -15,6 +19,7 @@ export class MatCardCommon extends ContentView {
     public greet() {
         return "Hello, NS";
     }
+
 }
 
 export class Utils {
@@ -22,7 +27,9 @@ export class Utils {
         let msg = `Your mdc-raised-button pluginz is working on ${app.android ? 'Android' : 'iOS'}.`;
 
         setTimeout(() => {
-            dialogs.alert(`MatCard loaded`).then(() => console.log(`Dialog closed.`));
+            // debug
+            // dialogs.alert(`MatCard loaded`).then(() => console.log(`Dialog closed.`));
+            console.log('2s delay: MatCard loaded');
         }, 2000);
 
         return msg;

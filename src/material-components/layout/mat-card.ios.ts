@@ -1,5 +1,6 @@
 import { MatCardCommon } from './mat-card.common';
 import { ios } from 'tns-core-modules/utils/utils';
+
 // interface UIView {
 //     extend(className: string, implementationObject: object): void;
 //     extend(implementationObject: object, options: object): void;
@@ -23,6 +24,8 @@ import { ios } from 'tns-core-modules/utils/utils';
 //     });
 
 export class MatCard extends MatCardCommon {
+    iosBackgroundColor: UIColor;
+
     constructor() {
         super();
         console.log(MDCRaisedButton);
@@ -30,25 +33,16 @@ export class MatCard extends MatCardCommon {
     createNativeView() {
         let view = ShadowedView.new();
 
-        // TODO: 
-        // let uiView = UIView.new();
         console.log('#### MatCard -> createNativeView()');
         let cardView = ShadowedView.new();
 
-        // let views = NSMutableArray.new();
-        // views.addObject(cardView);
-        //view.subviews = views;
         view.addSubview(cardView);
-        // const mdc = MDCShadowLayer.new();
-        // mdc.elevation = MDCShadowElevationCardResting;
-        // view.layer.sh
-        // view.displayLayer(mdc);
-        // view.setDefaultElevation();
 
         return view;
     }
+
     initNativeView() {
-        //todo: replace ShadowedView.layoutSubviews
+        console.log('#### initNativeView');
         let view = <UIView>this.nativeView;
         view.layer.shadowOffset = CGSizeMake(1, 1);
         view.layer.shadowRadius = 2;
@@ -56,12 +50,61 @@ export class MatCard extends MatCardCommon {
         view.layer.cornerRadius = 2;
         view.layer.shadowColor = UIColor.colorNamed("Red");
         view.layer.shadowOpacity = 0.4;
+
         // this is required for nativscript (the backgroundcolor must be set, else the card is transparent ;|
-        view.backgroundColor = UIColor.whiteColor;
+        console.log(JSON.stringify(["view.backgroundColor", this._mdcPalettePrefix, this._mdcShade]));
+        view.backgroundColor = MDCPalette[this._mdcPaletteFullName][this._mdcShade];
         view.layer.masksToBounds = false;
 
         // PERFORMANCE: disable rasterisation before animating: https://material.io/components/ios/catalog/shadows/shadow-layers/ 
         // view.layer.shouldRasterize = true;
+
+    }
+
+    get mdcColor() {
+        return this._mdcPalettePrefix;
+    }
+
+    set mdcColor(palettePrefix: string) {
+        console.log('!!!!!!!!!!!!!!! mdcColor');
+        let paletteFullName = `${palettePrefix}Palette`;
+        // todo: validate the color
+        if (MDCPalette[paletteFullName]) {
+            this._mdcPalettePrefix = palettePrefix;
+            this._mdcPaletteFullName = paletteFullName;
+        } else {
+            console.error(`mdcColor UNKNOWN: ${palettePrefix}`);
+        }
+    }
+
+    set mdcTint(shadeSuffix: string) {
+        console.log('!!!!!!!!!!!!!!! mdcTint');
+        let shadeFullName = /a\d+/.test(shadeSuffix) ? `accent${shadeSuffix.replace('a', '')}` : `tint${shadeSuffix}`;
+        if (MDCPalette.greyPalette[shadeFullName]) {
+            this._mdcShade = shadeFullName;
+        }
+    }
+
+    get bar(): boolean {
+        return false;
+    }
+
+    set bar(theBar: boolean) {
+        console.log('#### STANDBY.  Setting bar now...');
+        let view = <UIView>this.nativeView;
+        console.log(this.nativeView);
+        // (<any>view).setText("testicle");
+        if (theBar) {
+            console.log('#### STANDBY.  to yellow...');
+            this.iosBackgroundColor = MDCPalette.bluePalette.tint400;
+            // view.backgroundColor = UIColor.yellowColor;
+
+        } else {
+            console.log('#### STANDBY.  to orange-atang...');
+            this.iosBackgroundColor = MDCPalette.greenPalette.tint400;
+            // view.backgroundColor = UIColor.orangeColor;
+
+        }
 
     }
 }
@@ -77,6 +120,8 @@ export class ShadowedView extends UIView {
 
         return view;
     }
+
+
     init() {
         super.init();
         console.log('ShadowedView.init');
@@ -110,10 +155,12 @@ export class ShadowedView extends UIView {
     //     return <any>MDCShadowLayer;
     // }
 
-    // public layerClass() {
-    //     console.log('MDCShadowLayer.layerClass()');
-    //     return <any>MDCShadowLayer;
-    // }
+
+    public layerClass() {
+        console.log('MDCShadowLayer.layerClass()');
+        return <any>MDCShadowLayer;
+    }
+
     get shadowLayer(): MDCShadowLayer {
         return <MDCShadowLayer>this.layer;
     }
@@ -122,6 +169,7 @@ export class ShadowedView extends UIView {
     //     console.log('ShadowedView.layer');
     //     return <MDCShadowLayer>super.layer;
     // }
+
     public setElevation(points: number) {
         this.shadowLayer.elevation = points;
     }
@@ -129,11 +177,12 @@ export class ShadowedView extends UIView {
         console.log('ShadowedView.setDefaultElevation');
         this.shadowLayer.elevation = MDCShadowElevationCardResting;
     }
+
     // get layer(): MDCShadowLayer {
     //     console.log('ShadowedView.layer');
     //     return <MDCShadowLayer>super.layer;
-
     // }
+
     public layoutSubviews() {
         if (true || !this.hasDumped) {
             if (this.superview) {
