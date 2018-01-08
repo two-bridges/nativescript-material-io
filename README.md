@@ -2,13 +2,9 @@
 
 [![Nativescript Plugin](https://img.shields.io/badge/nativescript%20plugin-in%20development-orange.svg)](http://nstudio.io)
 
-This plugin aims to bring a consistent and cross platform Material Design implementation to nativescript for iOS and Android.  
-
-This plugin combines two popular Material Design resources:
-* Native Implementations, via [material.io (ios)](https://material.io/components/ios/) and [material.io (android)](https://material.io/components/android/).  
-* Component Vocabulary, via [material.angular.io](https://material.angular.io/components).  Eg. `<mat-card></mat-card>`.  This project was used for inspiration, to sensibly organise and name components for use in nativescript xml/html files.  
-
-The plugin supports both nativescript-core and nativescript-angular.  
+This plugin aims to bring a consistent and cross platform Material Design implementation to nativescript for iOS and Android, by combining two popular Material Design resources:
+* Native Implementations from [material.io (ios)](https://material.io/components/ios/) and [material.io (android)](https://material.io/components/android/).  
+* Component Vocabulary from [material.angular.io](https://material.angular.io/components).  Eg. `<mat-card></mat-card>`.  This project was used for inspiration, to sensibly organise and name components for use in nativescript xml/html files.  
 
 
 ## Prerequisites / Requirements
@@ -30,8 +26,14 @@ The plugin supports both nativescript-core and nativescript-angular.
 
 ## Usage 
 
-Clone this plugin to a new project.  Then run the demos:
+### Core
+
+Clone this plugin, then run the demo:
 * /demo for nativescript core
+
+### Angular
+
+Clone this plugin, then run the demo:
 * /demo-ng for nativescript angular
 
 ## API
