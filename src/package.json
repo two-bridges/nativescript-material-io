@@ -26,7 +26,7 @@
         "ng.demo.android": "npm i && npm run tsc && cd ../demo-ng && tns run android --syncAllFiles",
         "ng.demo.reset": "cd ../demo-ng && rimraf platforms",
         "ng.plugin.prepare": "npm run tsc && cd ../demo-ng && tns plugin remove nativescript-tb-material && tns plugin add ../src",
-        "ng.clean": "cd ../demo-ng && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run ng.plugin.link",
+        "ng.clean": "cd ../demo-ng && node ../rimraf-standalone.js hooks node_modules platforms && cd ../src && node ../rimraf-standalone.js node_modules && npm run ng.plugin.link",
         "#### DEMO #### ": "",
         "plugin.link": "npm link && cd ../demo && npm link nativescript-tb-material && cd ../src",
         "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
